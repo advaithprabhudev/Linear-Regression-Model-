@@ -18,3 +18,5 @@ For the optimizer, you can change the learning rate and optimizer as needed in t
                               lr = 0.01)`
 
 Thank you for seeing this small project of mine!
+
+<img width="547" height="413" alt="image" src="https://github.com/user-attachments/assets/574aeadd-4792-4619-9dbc-f8f3f8347ba8" />
